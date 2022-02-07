@@ -19,7 +19,7 @@
     "database": "da4boteg4ii9ai",
     "host": "ec2-35-153-35-94.compute-1.amazonaws.com",
     "port": 5432,
-    "dialect": "postgress",
+    "dialect": "postgres",
     "dialectOptions": {
       "ssl": { "rejectUnauthorized": false }
     }
